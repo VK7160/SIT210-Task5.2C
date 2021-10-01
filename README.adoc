@@ -1,6 +1,6 @@
 = Project: SIT210-Task5.2C-RPi - Making GUI
 
-Blinking Led Project using Raspberry Pi
+Building a simple GUI interface to turn on one of three LED lights.
 
 == Step 1: Circuit Setup
 Complete the circuit according to the sketch uploaded on Arduino IOT Cloud. 
