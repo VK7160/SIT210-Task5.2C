@@ -1,4 +1,4 @@
-= Project: SIT210-Task5.2C-RPi - GPIO Basics
+= Project: SIT210-Task5.2C-RPi - Making GUI
 
 Blinking Led Project using Raspberry Pi
 
