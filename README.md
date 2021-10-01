@@ -1,1 +1,46 @@
-# SIT210-Task5.2C
+
+= Project: SIT210-Task5.1P-RPi - GPIO Basics
+
+Blinking Led Project using Raspberry Pi
+
+== Step 1: Circuit Setup
+Complete the circuit according to the sketch uploaded on Arduino IOT Cloud. 
+
+== Step 2: Assemble the circuit
+Assemble the circuit following the diagram Circuit.png attached to the sketch
+
+== Step 3: Load the code
+Upload the code contained in this sketch on to your board
+
+
+=== Folder structure
+....
+ Project: SIT210-Task5.2C-RPi - GPIO Basics       => Arduino sketch folder
+  ├── Task5.2.py                                  => main Arduino file
+  ├── Circuit.png                                 => An image of the circuit layout
+  └── ReadMe.adoc                                 => Method to work with the files
+....
+
+=== License
+This project is released under a Public License.
+
+=== Contributing
+To contribute to this project please contact: 9996250931 
+
+=== BOM
+Add the bill of the materials you need for this project.
+
+|===
+| ID | Part name          | Part number | Quantity
+| R1 | Raspberry Pi       | RPX00066    | 1
+| B1 | Breadboard(any)    | BBX00066    | 1
+| J1 | Jumper Wires       | JWX00066    | 5
+| L1 | Led                | LEX00066    | 3
+| R1 | Resistor           | REX00066    | 3
+|===
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
